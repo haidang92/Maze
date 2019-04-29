@@ -52,9 +52,3 @@ Example displays:
 
 
 
-There is a maze definition file that can be used for testing your program (mazetest.txt). It has several paths that can be used to test your traversal process. 
-There are 5 maze definition files to be used for grading the sum of which is worth 62.5% of the grade. The fifth and final maze (maze5.txt) is required to achieve the full 200 points; it is depicted below:	
- 
-
- 
-
